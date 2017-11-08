@@ -1,0 +1,23 @@
+body {background-color : #ADD8E6;
+margin-left : 3cm;
+margin-right : 3cm;
+margin-top: 3cm;}
+h1,h2 {color: blue;}
+h1 {text-align: center;
+color:green;}
+h2 { margin-left: 3.5cm;}
+td {font-family: courier;}
+p.special {color:red;}
+table { background-color: #AFEEEE;
+margin-left: 4cm;}
+th {background-color:#FFB6C1;}
+td.special {font-family: italic;}
+p.x {margin-left: 10cm;}
+a:link {color: orange;}
+a:visited { color: purple;} 
+a:active { color: red}
+body {background-image: url(fond_ecran.jpg);
+background-position:center center;}
+img {height: 3cm;}
+img {vertical-align:baseline;}
+img {border:3cm double yellow }

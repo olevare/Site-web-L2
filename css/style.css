@@ -1,0 +1,79 @@
+#page
+{
+    width: 800px;
+    margin: auto;
+}
+
+body
+{
+    background-image: url("SiteFond.jpg");
+    font-family: 'Trebuchet MS';
+}
+
+header
+{
+    width: 750px;
+    border: 4px #757575 inset;
+    border-radius: 40px;
+    margin: auto;
+}
+
+nav
+{
+    width: 150px;
+    border: 4px #757575 inset;
+    border-radius: 40px;
+    position: fixed;
+    margin-top: 30px;
+}
+
+section
+{
+    width: 600px;
+    margin-left: 200px;
+    border: 4px #757575 outset;
+    border-radius: 40px;
+    padding: 20px;
+    margin-top: 30px;
+}
+
+footer
+{
+    width: 200px;
+    margin-left: 650px;
+    text-align: center;
+}
+
+h1
+{
+    text-align: center;
+    font-size: 3em;
+}
+
+h2
+{
+    font-size: 2em;
+}
+
+p, li, a
+{
+    color: white;
+    font-size: 1em;
+    text-align: justify;
+}
+
+#enoncer, #travaux, #acceuil
+{
+    color: black;
+}
+
+#copyright
+{
+    text-align: center;
+    margin-top: 160px;
+}
+
+a:hover
+{
+    color:red;
+}
